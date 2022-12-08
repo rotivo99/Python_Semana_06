@@ -1,0 +1,11 @@
+Line: 1 	 Total aminoacid count: 80
+Line: 2 	 Total aminoacid count: 80
+Line: 3 	 Total aminoacid count: 80
+Line: 4 	 Total aminoacid count: 80
+Line: 5 	 Total aminoacid count: 80
+Line: 6 	 Total aminoacid count: 80
+Line: 7 	 Total aminoacid count: 80
+Line: 8 	 Total aminoacid count: 80
+Line: 9 	 Total aminoacid count: 80
+Line: 10 	 Total aminoacid count: 80
+Total line count: 800
