@@ -1,0 +1,6 @@
+Anführungszeichen
+
+Es gibt kaum eine Sache, die häufiger falsch gemacht wird als unsere liebevoll »Gänsefüßchen« genannten Anführungszeichen. Das liegt zum einen an Unkenntnis, zum anderen aber natürlich auch einmal mehr an unserer urzeitlichen Tastatur, die die korrekten Zeichen gut versteckt hält.
+Letzteres ist mit der Tastaturkürzel-Übersicht von Typefacts kein Problem mehr, aber was die mangelnde Kenntnis angeht…
+Anführungszeichen werden zum Zitieren von Textpassagen, zur Ironisierung und Distanzierung genutzt. Zur Verschachtelung gibt es einfache und doppelte Anführungszeichen.
+Im Deutschen sitzt das öffnende Anführungszeichen unten, weshalb die Verwendung des doppelten Kodierungszeichens gleich doppelt falsch ist: Weder Position noch Form stimmen. Dabei ist die Regel eigentlich ganz einfach: 99 unten, 66 oben! Die Zeichen sind eben nur etwas versteckt…
